@@ -11,36 +11,35 @@
 
 ## 👥 팀원 소개
 <p align="center">
-  <div style="display: inline-block; text-align: center; margin: 10px;">
-    <img src="docs/poketmon1.png" width="150" height="150">
-    <p><b>권성호</b></p>
-    <p>백엔드 개발</p>
-  </div>
+  <img src="docs/poketmon1.png" width="150" height="150"> 
+  <img src="docs/poketmon2.png" width="150" height="150">
+  <img src="docs/poketmon3.png" width="150" height="150">
+  <img src="docs/poketmon4.png" width="150" height="150">
+  <img src="docs/members/choi.jpg" width="150" height="150">
+</p>
 
-  <div style="display: inline-block; text-align: center; margin: 10px;">
-    <img src="docs/poketmon2.png" width="150" height="150">
-    <p><b>노명구</b></p>
-    <p>프론트엔드 개발</p>
+<p align="center">
+  <div style="display: inline-block; text-align: center; width: 150px;">
+    <b>권성호</b>
   </div>
-
-  <div style="display: inline-block; text-align: center; margin: 10px;">
-    <img src="docs/poketmon3.png" width="150" height="150">
-    <p><b>이준배</b></p>
-    <p>데이터 엔지니어</p>
+  <div style="display: inline-block; text-align: center; width: 150px;">
+    <b>노명구</b>
   </div>
-
-  <div style="display: inline-block; text-align: center; margin: 10px;">
-    <img src="docs/poketmon4.png" width="150" height="150">
-    <p><b>최요섭</b></p>
-    <p>UI/UX 디자이너</p>
+  <div style="display: inline-block; text-align: center; width: 150px;">
+    <b>이준배</b>
   </div>
-
-  <div style="display: inline-block; text-align: center; margin: 10px;">
-    <img src="docs/members/choi.jpg" width="150" height="150">
-    <p><b>황차해</b></p>
-    <p>PM</p>
+  <div style="display: inline-block; text-align: center; width: 150px;">
+    <b>최요섭</b>
+  </div>
+  <div style="display: inline-block; text-align: center; width: 150px;">
+    <b>황차해</b>
   </div>
 </p>
+
+<p align="center">
+  백엔드 개발 | 프론트엔드 개발 | 데이터 엔지니어 | UI/UX 디자이너 | PM
+</p>
+
 
 
 ---
