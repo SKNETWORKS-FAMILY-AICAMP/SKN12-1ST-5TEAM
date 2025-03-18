@@ -11,7 +11,7 @@
 
 ## 👥 팀원 소개
 <p align="center">
-  <img src="docs/members/hong.jpg" width="150">
+  <img src="docs/members/hong.jpg" width="150"> 
   <img src="docs/members/kim.jpg" width="150">
   <img src="docs/members/lee.jpg" width="150">
   <img src="docs/members/park.jpg" width="150">
@@ -57,7 +57,7 @@
 ---
 
 ### 3. **국산차 데이터** 📄
-- **출처:** [다나와 자동차]([https://react.dev/](https://auto.danawa.com/))
+- **출처:** [다나와 자동차](https://auto.danawa.com/)
 - **설명:** 위 웹사이트에서 **크롤링**을 통해 국산차의 **브랜드**, **브랜드별 판매량**, **시장점유율** 데이터를 가져왔습니다.
 
 ---
