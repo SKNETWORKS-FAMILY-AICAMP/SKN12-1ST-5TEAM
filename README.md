@@ -15,7 +15,7 @@
   <img src="docs/poketmon2.png" width="150"height="150">
   <img src="docs/poketmon3.png" width="150"height="150">
   <img src="docs/poketmon4.png" width="150"height="150">
-  <img src="docs/members/choi.jpg" width="150"height="150">
+  <img src="docs/poketmon5.png" width="150"height="150">
 </p>
 
 <p align="center">
