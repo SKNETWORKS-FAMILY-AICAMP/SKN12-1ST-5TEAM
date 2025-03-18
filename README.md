@@ -62,18 +62,24 @@
 
 ---
 
-### 4. **렌터카 정보** 🎨
+### 4. **렌터카 정보** 🚗
 - **출처:** [전국 렌터가 업체 현황](https://www.data.go.kr/data/15025689/standard.do#/tab-layer-recommend-data)
 - **설명:** 전국 렌터카업체 현황을 **csv**를 파싱하여 **업체**,**차종별 수**,**지역**으로 데이터를 변환하여 데이터를 가져왔습니다.
 
 ---
 
-### 5. **차량 FAQ 정보** 🎨
+### 5. **차량 FAQ 정보** 🚗
 - **출처:** [현대차](https://www.hyundai.com/kr/ko/e/customer/center/faq)
 - **출처:** [기아차](https://www.kia.com/kr/customer-service/center/faq)
 - **설명:** 현대, 기아차 사이트에서 FAQ를 **크롤링**을 통해 **브랜드**, **질문**, **답변**으로 데이터를 가져왔습니다.
 
-  ---
+---
+
+### 6. **국내 자동차 용도, 지역별 정보** 🚗
+- **출처:** [국토교통통계누리](https://stat.molit.go.kr/portal/cate/statView.do?hRsId=58&hFormId=5498&hSelectId=5498&hPoint=00&hAppr=1&hDivEng=&oFileName=&rFileName=&midpath=&sFormId=5498&sStart=201101&sEnd=202502&sStyleNum=2&settingRadio=xlsx)
+- **설명:** 위 웹사이트에서 **크롤링**을 통해 **날짜**, **지역**, **용도별 등록차량대수**으로 데이터를 가져왔습니다.
+
+---
 
 이 데이터와 참고 자료들은 본 프로젝트의 분석 및 구현에 중요한 역할을 했습니다.
 
