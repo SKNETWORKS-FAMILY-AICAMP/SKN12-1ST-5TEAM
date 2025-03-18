@@ -108,10 +108,8 @@
 ---
 
 ## 📊 ERD (Entity Relationship Diagram)
-> ERD 다이어그램을 여기에 첨부하세요.  
-예를 들어, ERD 이미지가 `docs/erd.png`에 있다면 다음과 같이 표시할 수 있습니다.
 
-![ERD](docs/erd.png)
+![ERD](docs/first_project_ERD.png)
 
 ---
 
