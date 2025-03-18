@@ -1,17 +1,30 @@
-# SKN12-1ST-5TEAM
-# 수정합니다.
 # 🚀 프로젝트 이름
 
 > 프로젝트의 간략한 소개를 작성하세요. (예: "이 프로젝트는 OO을 해결하기 위한 OO 서비스입니다.")
 
 ---
 
+## 🎨 팀명: **OO팀**  
+> 우리 팀의 슬로건이나 모토를 적어도 좋아요! (예: "함께 성장하는 OO팀")
+
+---
+
 ## 👥 팀원 소개
-| 이름  | 역할  | GitHub |
-|------|------|--------|
-| 홍길동 | 백엔드 개발 | [GitHub](https://github.com/example) |
-| 김철수 | 프론트엔드 개발 | [GitHub](https://github.com/example) |
-| 이영희 | 데이터 엔지니어 | [GitHub](https://github.com/example) |
+<p align="center">
+  <img src="docs/members/hong.jpg" width="150">
+  <img src="docs/members/kim.jpg" width="150">
+  <img src="docs/members/lee.jpg" width="150">
+  <img src="docs/members/park.jpg" width="150">
+  <img src="docs/members/choi.jpg" width="150">
+</p>
+
+<p align="center">
+  <b>홍길동</b> | <b>김철수</b> | <b>이영희</b> | <b>박민수</b> | <b>최수진</b>
+</p>
+
+<p align="center">
+  백엔드 개발 | 프론트엔드 개발 | 데이터 엔지니어 | UI/UX 디자이너 | PM
+</p>
 
 ---
 
@@ -71,10 +84,21 @@
 
 ---
 
-## 🎥 시연 영상
-[📺 시연 영상 보기](https://www.youtube.com/example)
+## 🖼 시연 이미지
+> 프로젝트의 주요 기능을 보여주는 이미지를 추가하세요.  
+> 예를 들어 `docs/demo1.png`, `docs/demo2.png` 등의 파일을 업로드하고 아래와 같이 표시할 수 있습니다.
+
+![시연 이미지 1](docs/demo1.png)  
+![시연 이미지 2](docs/demo2.png)  
+![시연 이미지 3](docs/demo3.png)  
 
 ---
 
 ## 💭 한줄 회고
-> "이번 프로젝트를 통해 OO을 배웠고, OO이 가장 어려웠다. 하지만 OO을 해결하면서 성장할 수 있었다!"
+> 팀원들이 각자 한 줄씩 작성해주세요!
+
+- **홍길동:** "이번 프로젝트에서 OO을 배울 수 있어 좋았다!"
+- **김철수:** "개발하면서 OO 부분이 어려웠지만, 해결해서 뿌듯했다!"
+- **이영희:** "데이터 설계 과정에서 OO을 고려하는 것이 중요하다는 걸 배웠다!"
+- **박민수:** "UI/UX 디자인을 적용하면서 사용자 경험을 많이 고민하게 되었다!"
+- **최수진:** "팀원들과 협업하며 PM으로서의 역할을 더 깊이 이해할 수 있었다!"
