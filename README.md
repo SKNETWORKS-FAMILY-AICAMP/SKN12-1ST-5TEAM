@@ -19,19 +19,19 @@
 </p>
 
 <p align="center">
-  <div style="display: inline-block; text-align: center; width: 150px;">
+  <div text-align: center; width: 150px;">
     <b>권성호</b>
   </div>
-  <div style="display: inline-block; text-align: center; width: 150px;">
+  <div text-align: center; width: 150px;">
     <b>노명구</b>
   </div>
-  <div style="display: inline-block; text-align: center; width: 150px;">
+  <div text-align: center; width: 150px;">
     <b>이준배</b>
   </div>
-  <div style="display: inline-block; text-align: center; width: 150px;">
+  <div text-align: center; width: 150px;">
     <b>최요섭</b>
   </div>
-  <div style="display: inline-block; text-align: center; width: 150px;">
+  <div text-align: center; width: 150px;">
     <b>황차해</b>
   </div>
 </p>
