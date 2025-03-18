@@ -11,10 +11,10 @@
 
 ## 👥 팀원 소개
 <p align="center">
-  <img src="docs/members/hong.jpg" width="150"> 
-  <img src="docs/members/kim.jpg" width="150">
-  <img src="docs/members/lee.jpg" width="150">
-  <img src="docs/members/park.jpg" width="150">
+  <img src="docs/어리짱.png" width="150"> 
+  <img src="docs/누오.png" width="150">
+  <img src="docs/나옹.png" width="150">
+  <img src="docs/따라큐.png" width="150">
   <img src="docs/members/choi.jpg" width="150">
 </p>
 
