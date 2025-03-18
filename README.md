@@ -14,7 +14,7 @@
   <a href="https://github.com/2wnsqo" target="_blank">
     <img src="docs/poketmon3.png" width="150" height="150">
   </a>
-  <a href="https://github.com/kyuyuonglee" target="_blank">
+  <a href="https://github.com/kyuyounglee" target="_blank">
     <img src="docs/poketmon2.png" width="150" height="150">
   </a>
   <a href="https://github.com/AshOne91" target="_blank">
@@ -30,7 +30,7 @@
 
 <p align="center">
   <a href="https://github.com/2wnsqo" target="_blank"><b>이준배</b></a> |
-  <a href="https://github.com/kyuyuonglee" target="_blank"><b>노명구</b></a> |
+  <a href="https://github.com/kyuyounglee" target="_blank"><b>노명구</b></a> |
   <a href="https://github.com/AshOne91" target="_blank"><b>권성호</b></a> |
   <a href="https://github.com/1203choi" target="_blank"><b>최요섭</b></a> |
   <a href="https://github.com/chahae654" target="_blank"><b>황차해</b></a>
