@@ -11,36 +11,20 @@
 
 ## 👥 팀원 소개
 <p align="center">
-  <img src="docs/poketmon1.png" width="150" height="150"> 
-  <img src="docs/poketmon2.png" width="150" height="150">
-  <img src="docs/poketmon3.png" width="150" height="150">
-  <img src="docs/poketmon4.png" width="150" height="150">
-  <img src="docs/members/choi.jpg" width="150" height="150">
+  <img src="docs/poketmon1.png" width="150"height="150"> 
+  <img src="docs/poketmon2.png" width="150"height="150">
+  <img src="docs/poketmon3.png" width="150"height="150">
+  <img src="docs/poketmon4.png" width="150"height="150">
+  <img src="docs/members/choi.jpg" width="150"height="150">
 </p>
 
 <p align="center">
-  <div text-align: center; width: 150px;">
-    <b>권성호</b>
-  </div>
-  <div text-align: center; width: 150px;">
-    <b>노명구</b>
-  </div>
-  <div text-align: center; width: 150px;">
-    <b>이준배</b>
-  </div>
-  <div text-align: center; width: 150px;">
-    <b>최요섭</b>
-  </div>
-  <div text-align: center; width: 150px;">
-    <b>황차해</b>
-  </div>
+  <b>권성호</b> | <b>노명구</b> | <b>이준배</b> | <b>최요섭</b> | <b>황차해</b>
 </p>
 
 <p align="center">
   백엔드 개발 | 프론트엔드 개발 | 데이터 엔지니어 | UI/UX 디자이너 | PM
 </p>
-
-
 
 ---
 
