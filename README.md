@@ -1,6 +1,6 @@
 # 🚀 프로젝트 이름
 
-> 전국 자동차 등록 현황, 해외 및 전국 자동차 등록 및 가격 데이터, 렌트 중고차 데이터 분석 및  및 기업 FAQ 조회시스템
+> 전국 자동차 등록 현황, 해외 및 전국 자동차 등록 및 가격 데이터, 렌트 중고차 데이터 분석 및 기업 FAQ 조회시스템
 
 ---
 
@@ -29,12 +29,12 @@
 ---
 
 ## 📌 프로젝트 개요
-- **프로젝트명:** 전국 자동차 등록 현황, 해외 및 전국 자동차 등록 및 가격 데이터, 렌트 중고차 데이터 분석 및  및 기업 FAQ 조회시스템 웹 프로젝트
+- **프로젝트명:** 전국 자동차 등록 현황, 해외 및 전국 자동차 등록 및 가격 데이터, 렌트 중고차 데이터 분석 및 기업 FAQ 조회시스템 웹 프로젝트
 - **설명:** 이 프로젝트는 사용자에게 자동차 관련 각종 데이터 분석 및 시각화 데이터를 제공합니다.
 - **주요 기능:**
   - 🔹 각 데이터 조회
   - 🔹 데이터 시각화
-  - 🔹 기업 FAQ 조회 시스템템
+  - 🔹 기업 FAQ 조회 시스템
 
 ---
 
@@ -106,9 +106,12 @@
 ## 📋 테이블 명세
 | 테이블명 | 설명 | 주요 컬럼 |
 |---------|------|---------|
-| used_car_table | 중고차 정보 | id(INT, PK, AI), car_name(VARCHAR(100)), car_year(INR), car_km(INR), car_price(INR), car_cate(VARCHAR(100)), car_brand(VARCHAR(100)), brand_num(INR, FK) |
+| used_car_table | 중고차 정보 | id(INT, PK, AI), car_name(VARCHAR(100)), car_year(INR), car_km(INR), car_price(INR), car_cate(VARCHAR(100)), car_brand(VARCHAR(100)), brand_num(INT, FK) |
 | car_brands | 자동차 브랜드 | brand_num(INT, PK, AI), car_brand(VARCHAR(50)) |
 | products | 상품 정보 | id, name, price, stock |
+| domestic_car_table| 국산차 브랜드별 등록정보 | id(INT, PK, AI), Year(INT), Month(INT), Rank(INT), Brand(VARCHAR(100)), Sales(INT), Market_Share(FLOAT), Brand_index(INT, FK)|
+| imported_car_table| 외제차 브랜드별 등록정보 | id(INT, PK, AI), year(INT), month(INT), brand(VARCHAR(100)), sales(INT), ratio(FLOAT), brand_index(INT, FK)|
+
 
 ---
 
