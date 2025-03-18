@@ -11,16 +11,31 @@
 
 ## 👥 팀원 소개
 <p align="center">
-  <img src="docs/poketmon3.png" width="150"height="150"> 
-  <img src="docs/poketmon2.png" width="150"height="150">
-  <img src="docs/poketmon1.png" width="150"height="150">
-  <img src="docs/poketmon4.png" width="150"height="150">
-  <img src="docs/poketmon5.png" width="150"height="150">
+  <a href="https://github.com/2wnsqo" target="_blank">
+    <img src="docs/poketmon3.png" width="150" height="150">
+  </a>
+  <a href="https://github.com/myunggoo456" target="_blank">
+    <img src="docs/poketmon2.png" width="150" height="150">
+  </a>
+  <a href="https://github.com/sungho789" target="_blank">
+    <img src="docs/poketmon1.png" width="150" height="150">
+  </a>
+  <a href="https://github.com/yoseob987" target="_blank">
+    <img src="docs/poketmon4.png" width="150" height="150">
+  </a>
+  <a href="https://github.com/chahae654" target="_blank">
+    <img src="docs/poketmon5.png" width="150" height="150">
+  </a>
 </p>
 
 <p align="center">
-  <b>이준배</b> | <b>노명구</b> | <b>권성호</b> | <b>최요섭</b> | <b>황차해</b>
+  <a href="https://github.com/2wnsqo" target="_blank"><b>이준배</b></a> |
+  <a href="https://github.com/myunggoo456" target="_blank"><b>노명구</b></a> |
+  <a href="https://github.com/sungho789" target="_blank"><b>권성호</b></a> |
+  <a href="https://github.com/yoseob987" target="_blank"><b>최요섭</b></a> |
+  <a href="https://github.com/chahae654" target="_blank"><b>황차해</b></a>
 </p>
+
 
 ---
 
