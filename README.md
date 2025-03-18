@@ -117,7 +117,7 @@
 
 ## 🌀 DFD (Data Flow Diagram)
 
-![DFD](docs/first_project_dfd.png)
+![DFD](docs/first_project_dfd1.png)
 
 ---
 
