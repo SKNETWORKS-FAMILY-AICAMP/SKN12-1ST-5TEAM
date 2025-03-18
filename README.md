@@ -11,11 +11,11 @@
 
 ## 👥 팀원 소개
 <p align="center">
-  <img src="docs/어리짱.png" width="150"> 
-  <img src="docs/누오.png" width="150">
-  <img src="docs/나옹.png" width="150">
-  <img src="docs/따라큐.png" width="150">
-  <img src="docs/members/choi.jpg" width="150">
+  <img src="docs/poketmon1.png" width="150"height="150"> 
+  <img src="docs/poketmon2.png" width="150"height="150">
+  <img src="docs/poketmon3.png" width="150"height="150">
+  <img src="docs/poketmon4.png" width="150"height="150">
+  <img src="docs/members/choi.jpg" width="150"height="150">
 </p>
 
 <p align="center">
