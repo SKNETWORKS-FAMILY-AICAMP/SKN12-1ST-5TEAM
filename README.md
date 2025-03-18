@@ -116,7 +116,7 @@
 > 데이터 흐름도를 여기에 첨부하세요.  
 예: `docs/dfd.png`
 
-![DFD](docs/dfd.png)
+![DFD](docs/first_project_dfd.png)
 
 ---
 
